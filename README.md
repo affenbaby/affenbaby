@@ -20,3 +20,6 @@ hjZWLVCPyDeUyrnnHEEA
 
 -----END PGP PUBLIC KEY BLOCK-----
 
+In case you want to give me access to your boxen:
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDb61vxTCIEhO9h0FmTIjo9FBAR2lAKCgFZHuhyf857U/x7+ZYImCYLFewnhQC9oXvEhEVGDt2nYO+vpU7m6n1JEPqAuTX2/wJ+dE6gJ14rJts872Dm0iT+/ec0cpdV1zkE7J2yytMbTaZL9D/6FYvWT8L8uWt/x4Fl0m59+Qb4x4wMGnex6zfiQGVJk8D0FC7iRcokWpynVnpaaXa+cdj6CvZxHUbxda+iz6RJIXiynqf9AfUQ/75BSoXjFSt7sndyxUA/IwviM2wZizl2cIq8Y8hPoTOWsYyUItb70aPHbtvnUuEts7jconE0xGozya5nv93cbjhbCwBBhWGB+L/Vqfvvs35zOwUEEn0/KG9s06FIKHy7sINYp5PygnYm8Z4Mv8Q3nPyix6QQOE7djJYHAOFYtbAmnn9FhA4Qfh2rmvmUHcbw+oHeIudWKLEyGu9gJxufaPK34Wrc2dT13hw0BW6HJtbPq1UI68ZtCIdNlw4I8Ubgy1MwYrNqlqZXR/s=
