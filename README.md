@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**affenbaby/affenbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about cloud security
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Amateur Guitarist/Sound Engineer
 
-Here are some ideas to get you started:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEYQpaXxYJKwYBBAHaRw8BAQdAPUp4EPnaJfW8X8K0OldeMEg4CogiT0qRDg1z
+Lpua6P+0MkF0aGFuYXNpb3MgS29zdG9wb3Vsb3MgPGF0aGFuYXNpb3Mua0BhZmZp
+bmlkaS5jb20+iJoEExYKAEIWIQTR8FZnZjHQ3gnOOH+7oGtV441WLAUCYQpaXwIb
+AwUJA7U4AAULCQgHAgMiAgEGFQoJCAsCBBYCAwECHgcCF4AACgkQu6BrVeONVizr
+/wEA83M6eTU4Erd+Uz0SqMgIwDrXPdtte3nByhNokjeYDMsBAMset32avJUq7tSN
+VmIL/GJ2MAMt/RDinal1GTFI1HgOuDgEYQpaXxIKKwYBBAGXVQEFAQEHQNyo+7np
+XuvXK5gDC768eMZtKFRqWHuKXsr8jEbJIqZWAwEIB4h+BBgWCgAmFiEE0fBWZ2Yx
+0N4Jzjh/u6BrVeONViwFAmEKWl8CGwwFCQO1OAAACgkQu6BrVeONVixMxQD/XALV
+uLndWQAPXQkARNNOVBehVv6WSI6Mbd27+t0smlMA/3VClTEmrosH9gFylpPeydwf
+hjZWLVCPyDeUyrnnHEEA
+=nbdI
+-----END PGP PUBLIC KEY BLOCK-----
+
